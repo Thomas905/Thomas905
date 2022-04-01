@@ -19,7 +19,6 @@
 
   
 <h2 align="left">👨🏻‍💻 En savoir plus sur moi :</h2>
-- :computer: Je travaille actuellement sur WebInCloudy et Powy. <br />
 - :rocket: Toujours prêt à collaborer pour les expériences de développement
 <br />
 <br />
