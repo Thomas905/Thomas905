@@ -1,12 +1,18 @@
-<h1 align="center">Hello !  👋</h1>
+<h1 align="center">Hello, Bonjour, Hola !  👋</h1>
 
 ###
 
-<h3 align="center">I am Thomas Clarisse<br>Software Web Engineer 💻</h3>
+<h3 align="center">I'm Thomas Clarisse<br>Software Engineer 💻</h3>
 
 ###
 
-<h4 align="center">I come from France and i am passionate of coding past 6 years, after many experience on agency, now i propose my services to customer and business client.<br><br>Do not hesitate contact my : <a href="mailto:thomas@webincompany.fr">thomas@webincompany.fr</a></h4>
+<h4>
+I'm a French software engineer with over 6 years of experience in web development. After working in several digital agencies, I now offer my expertise directly to clients and businesses as an independent developer.
+
+I specialise in building robust, scalable, and modern web applications tailored to specific business needs. My core technologies include PHP (Symfony), TypeScript, Next.js / React, NestJS, and Python...
+
+Passionate about clean code, performance, and user-centric solutions, I’m committed to delivering high-quality digital products that make a real impact.
+</h4>
 
 ###
 
@@ -21,11 +27,15 @@
 
 ###
 
-<h2 align="left">My current work</h2>
+<h2 align="left">My current work and where</h2>
 
 ###
 
-<p align="left">Software Engineer at WebInCompany and WebInCloudy</p>
+<p align="left">
+WebInCompany is a European-based digital agency with offices in France and an active presence across several countries, including Ireland, Belgium, Switzerland, and Spain. We are also expanding globally, with a recent presence established in Australia 🇦🇺. 
+
+So I'm in Australia to expend my company, improve the business and my skills
+</p>
 
 ###
 
